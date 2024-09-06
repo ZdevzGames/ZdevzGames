@@ -1,4 +1,4 @@
-_# Hi, I'm Zach! 👋
+# Hi, I'm Zach! 👋
 
 **Welcome to my GitHub profile!** I'm Zacharyflopguy, a passionate college undergraduate student interested in **computer science**, **AI/ML**, **game design**, **mathematics**, and everything STEM-related. My goal is to never stop learning and to share some of my work here with the world.
 ---
