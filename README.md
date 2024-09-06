@@ -15,7 +15,7 @@
 ## 🛠️ Projects
 
 ### Gladiator
-WIP **VR game** where you explore ever expanding **procedural dungeons** to be freed from you seemingly endless prison sentence.
+WIP **VR game** where you explore ever-expanding **procedural dungeons** to be freed from your seemingly endless prison sentence.
 
 ### Evolution Sim
 Project meant to use neural networks to model natural selection and evolution
