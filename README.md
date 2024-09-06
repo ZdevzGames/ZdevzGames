@@ -6,10 +6,9 @@
 ## 🌟 About Me
 
 - 🏫 TCHS 24' | University of Tulsa 28' 🌀
-- 📚 I’m currently studying: **Artificial Intelligence**, **Machine Learning**, and **Advanced Data Analytics**.
-- 💗 I’m passionate about: Combining **science** and **technology** to solve real-world problems, particularly in ways that positively impact society.
-- 🎮 In my free time, I enjoy: **Playing Minecraft** with my brothers, and exploring creative builds in survival mode.
-- 🎧 Music lover of: **Chillwave**, **Instrumental Electronic**, and **Sound Design** elements, often listening to artists like **C418**, **M83**, and **ODESZA**.
+- 📚 I’m currently studying: **Computer Science** and **Computer Simulation and Gaming**.
+- 💗 I’m passionate about: **Artificial Intelligence**, **Machine Learning**, **Game Design and Development**, **Algorithms**, and **Jesus**.
+- 🎮 Some of my favorite games are: **Lethal Company**, **Minecraft**, and **Zelda BOTW and TOTK**. 
 
 ---
 
