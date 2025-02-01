@@ -1,6 +1,6 @@
-# Hi, I'm Zach! 👋
+# Hi, I'm ZDevz! 👋
 
-**Welcome to my GitHub profile!** I'm Zacharyflopguy, a passionate college undergraduate student interested in **computer science**, **AI/ML**, **game design**, **mathematics**, and everything STEM-related. My goal is to never stop learning and to share some of my work here with the world.
+**Welcome to my GitHub profile!** I'm Zach, a passionate college undergraduate student interested in **computer science**, **AI/ML**, **game design**, **mathematics**, and everything STEM-related. My goal is to never stop learning and to share some of my work here with the world.
 ---
 
 ## 🌟 About Me
@@ -14,11 +14,11 @@
 
 ## 🛠️ Projects
 
-### Gladiator
-WIP **VR game** where you explore ever-expanding **procedural dungeons** to be freed from your seemingly endless prison sentence.
+### Tower Merge Tactics
+WIP **2048-inspired Tower Defense** where you explore merge classes of towers to level them up
 
-### Evolution Sim
-Project meant to use neural networks to model natural selection and evolution
+### CCUS  Game - Undergrad Research
+WIP web game project at **The University of Tulsa** aimed at teaching **climate change** and **carbon capture technologies** to children
 
 _...More projects on my [Itch.io](https://zacharyflopguy.itch.io/)_
 
