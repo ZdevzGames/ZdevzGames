@@ -26,5 +26,5 @@ _...More projects on my [Itch.io](https://zacharyflopguy.itch.io/)_
 
 ## 🤝 Get in Touch
 
-- 💼 Connect with me on [LinkedIn](www.linkedin.com/in/zach-hickman-813537327) where I'm open to **internships** and opportunities to collaborate on **STEM projects and research**.
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/zach-hickman-813537327) where I'm open to **internships** and opportunities to collaborate on **STEM projects and research**.
 - 📫 Feel free to reach out via [Email](mailto:zachary.b.hickman@gmail.com).
