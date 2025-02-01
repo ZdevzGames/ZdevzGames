@@ -15,7 +15,7 @@
 ## 🛠️ Projects
 
 ### Tower Merge Tactics
-WIP **2048-inspired Tower Defense** where you explore merge classes of towers to level them up
+WIP **2048-inspired Tower Defense** where you merge classes of towers to level them up
 
 ### CCUS  Game - Undergrad Research
 WIP web game project at **The University of Tulsa** aimed at teaching **climate change** and **carbon capture technologies** to children
